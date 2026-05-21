@@ -978,6 +978,14 @@
     const cls = document.getElementById('submitterClass').value;
     const phone = document.getElementById('submitterPhone').value.trim();
     if (!name || !cls || !phone) { showToast('Please fill in your name, class, and number.'); return; }
+    
+// Auto-stage any friend info the user typed but forgot to click "+ Add"
+const pendingName = document.getElementById('friendName').value.trim();
+const pendingPhone = document.getElementById('friendPhone').value.trim();
+if (pendingName && pendingPhone) {
+  const pendingCls = document.getElementById('friendClass').value;
+  entries.push({ name: pendingName, phone: pendingPhone, cls: pendingCls });
+}
 
     const btn = document.getElementById('submitBtn');
     btn.disabled = true;
