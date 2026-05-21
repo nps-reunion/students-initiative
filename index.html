@@ -921,7 +921,7 @@
       let contributors = snapshot.size;
       snapshot.forEach(doc => {
         const data = doc.data();
-        totalContacts += (data.entries || []).length;
+        totalContacts += 1 + (data.entries || []).length;
       });
       animateCount('statContacts', totalContacts);
       animateCount('statContributors', contributors);
