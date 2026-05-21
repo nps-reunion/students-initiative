@@ -1,4 +1,3 @@
-# students-initiative
 # NPS Reconnect
 
 A small website built by three students of the 10th batch (2023–24) at Nalgonda Public School, before everyone went their separate ways for higher studies. The idea was simple — a lot of classmates had left over the years, and nobody had a complete list of contacts. This was our attempt to fix that before it got too late.
@@ -19,7 +18,7 @@ No accounts. No sign-ups. Just fill the form and submit.
 - **How It Works** — three-step explainer
 - **Share a Contact** — the main submission form
 - **About** — the story behind why this was built
-- **Contact** — reach the team directly (Instagram, Telegram, phone)
+- **Contact** — reach the team directly via WhatsApp, Telegram, or Instagram
 - **Admin** — password-protected panel, restricted to the core team
 
 ---
@@ -51,11 +50,11 @@ README.md    ← you're reading it
 
 ## The team
 
-| Name | Role |
-|---|---|
-| Manikanta | Admin — [@xliptan](https://instagram.com/xliptan) |
-| Sspankco | Moderator — [@sspankcoreddy](https://instagram.com/sspankcoreddy) · [Telegram](https://t.me/sspankcoreddy) |
-| Srikar | Moderator — [@peruri_srikar](https://instagram.com/peruri_srikar) |
+| Name | Role | Contact |
+|---|---|---|
+| Manikanta | Admin | [WhatsApp](https://wa.me/918328060866) · [@xliptan](https://instagram.com/xliptan) |
+| Sspankco | Moderator | [Telegram](https://t.me/sspankcoreddy) · [@sspankcoreddy](https://instagram.com/sspankcoreddy) |
+| Srikar | Moderator | [WhatsApp](https://wa.me/917670845855) · [@peruri_srikar](https://instagram.com/peruri_srikar) |
 
 All data collected has full parental consent.
 
